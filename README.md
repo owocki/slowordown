@@ -31,10 +31,6 @@ After I joined Simple Energy, I abandoned the project.  The audience has continu
 - [ ] some domains are not currently checked. scale to all domains
 - [ ]  toplists: recently offline , most volatile load times, fastest load times, average load time
 
-## Demo
-
-http://slowordown.com/
-
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/slowordown' style='width:1px; height:1px;' >
 
